@@ -1,4 +1,4 @@
-The 1th Knee bend started at 5.944521427154541 and was for duration: 21.89 during which average angle made by the knee was: 60.6The 1 Knee bend started at 6.01sec and was for duration: 25.05sec during which average angle made by the knee was: 60.6Deg
+The 1 Knee bend started at 6.01sec and was for duration: 25.05sec during which average angle made by the knee was: 60.6Deg
 The 2 Knee bend started at 37.88sec and was for duration: 22.55sec during which average angle made by the knee was: 96.57Deg
 The 3 Knee bend started at 66.13sec and was for duration: 24.88sec during which average angle made by the knee was: 97.29Deg
 The 4 Knee bend started at 96.01sec and was for duration: 21.27sec during which average angle made by the knee was: 114.63Deg
